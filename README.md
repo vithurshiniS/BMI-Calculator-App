@@ -1,8 +1,8 @@
 <img src="./assets/screenshots/Flutter%20BMI.png" width="100%">
 
-# changed read me to check
-
 # BMI Calculator App
+
+# changed read me to check
 
 This is a flutter based simple BMI Calculator app which calculated Body Mass Index..
 
